@@ -1,0 +1,197 @@
+#title {
+  color: #fff;
+}
+
+.container-fluid {
+  background-color: #ff4c68;
+  padding: 3% 15% 3% 15%;
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+h1 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  line-height: 1.5;
+  color: ivory;
+}
+
+h2 {
+  font-family: 'Montserrat-Black', sans-serif;
+  color: ivory;
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 790;
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-weight: bold;
+  color: #ef8172;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.td {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  ;
+  color: ivory;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image-container {
+  position: relative;
+}
+
+.title-image {
+  /*width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+
+  */
+  margin: auto auto -12rem 50px;
+  transform: rotate(25deg);
+  width: 60%;
+}
+
+#features {
+  /*
+  padding: 7% 15%;
+  color: #fff;
+  position: relative;
+  z-index: 1;
+  */
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.check-icon {
+  font-size: 50px;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.bullseye-icon {
+  font-size: 50px;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.bullseye-icon:hover {
+  color: #ff4c68;
+}
+
+.heart-icon:hover {
+  color: #ff4c68;
+}
+
+.check-icon:hover {
+  color: #ff4c68;
+}
+
+.heart-icon {
+  font-size: 50px;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+  margin-bottom: 1rem;
+}
+
+/* Testimonial Section */
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Press */
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Pricing */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding 3% 2%;
+  text-align: center;
+}
+
+
+#cta
+{
+  background-color: #ff4c68;
+  padding: 10rem 20rem 8rem 20rem;
+  text-align: center;
+}
+
+#footer
+{
+  padding: 8rem 20rem 5rem 20rem;
+  text-align: center;
+}
+
+.ftrs
+{
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+  margin-bottom: 2rem;
+}
